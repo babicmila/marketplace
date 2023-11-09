@@ -1,2 +1,2 @@
 # marketplace
-Django project for Online Markerplace
+Django project for Online Marketplace
