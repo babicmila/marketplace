@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\milab\Desktop\marketplace\env"
+VIRTUAL_ENV="C:\Users\milab\Documents\VisualStudio Projects\marketplace\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
